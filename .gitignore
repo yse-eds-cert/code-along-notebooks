@@ -2,3 +2,6 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# Large source rasters not used by notebooks (exceed GitHub size limit)
+course-4-environmental-analysis/geospatial-data/Hansen_GFC-2025-v1.13_lossyear_00N_020E.tif
