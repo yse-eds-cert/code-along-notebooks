@@ -30,9 +30,10 @@ If you're reading this README, you've **already accepted the code along assignme
 
    - **Option A (Recommended)** — Open Google Colab directly:
      1. Go to https://colab.research.google.com/
-     2. Click the **GitHub** tab in the pop-up
-     3. For the repository, choose `yse-eds-cert/yse-eds-cert-code-along-notebooks-<yourUserNameHere>` (replacing `<yourUserNameHere>` with your username)
-     4. Click the notebook file (`.ipynb`) you want to open
+     2. Click **See All** in the top right corner of the page. This will open a pop-up window.
+     3. Click the **GitHub** tab in the pop-up
+     4. For the repository, choose `yse-eds-cert/yse-eds-cert-code-along-notebooks-<yourUserNameHere>` (replacing `<yourUserNameHere>` with your username)
+     5. Click the notebook file (`.ipynb`) you want to open
 
    - **Option B** — Edit the following link with your GitHub username and the notebook filename, then follow the link:
      `https://colab.research.google.com/github/yse-eds-cert/yse-eds-cert-code-along-notebooks-<yourUserNameHere>/blob/main/<file_path_and_notebook_name>.ipynb`
